@@ -1,2 +1,2 @@
 # Polyline-Go
-Coge ubicaciones de un archivo y crea una polyline.
+This program take the locations of a text file and generate a polyline.
